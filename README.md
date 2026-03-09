@@ -1,5 +1,6 @@
 # Smart-Assistive-Navigation-Band-for-Deaf-Blind-Individuals
 The project proposes a **Smart Assistive Navigation Band for deaf-blind individuals** to help them travel safely and independently. It uses **sound sensors, GPS, vibration alerts, and Braille-based directional buttons** to provide environmental awareness, navigation guidance, and emergency assistance through tactile feedback.
+
 Abstract
 
 Deaf-blind individuals face significant challenges in independent mobility and environmental awareness due to the combined loss of hearing and vision. This project proposes a Smart Assistive Navigation Band designed to enhance safety, communication, and independent travel for deaf-blind users through tactile feedback technology.
